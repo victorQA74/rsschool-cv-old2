@@ -1,1 +1,1 @@
-creat readme file
+https://victorQA74.github.io/rsschool-cv/cv
