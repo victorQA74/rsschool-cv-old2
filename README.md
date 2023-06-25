@@ -1,1 +1,1 @@
-https://victorQA74.github.io/rsschool-cv/cv
+https://victorQA74.github.io/rsschool-cv
